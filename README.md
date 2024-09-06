@@ -22,4 +22,4 @@ Spatialomics, Visium HD, Grids, H&E Pathology Image, Pixel, Mapping, Gene Expres
 
 ![alt text](Images/tissue_hires_image.png )
 
-See more explanation in [Explanation](https://github.com/stjude-biohackathon/KIDS24-team6/blob/main/Explanation/Explanation.md)
+See more details in [Explanation](https://github.com/stjude-biohackathon/KIDS24-team6/blob/main/Explanation/Explanation.md)
