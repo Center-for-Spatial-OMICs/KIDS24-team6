@@ -26,4 +26,4 @@ See more details in [Explanation](https://github.com/stjude-biohackathon/KIDS24-
 
 
 #### Shiny APP (Demo)
-![alt text](Images/shiny_app_screenshot )
+![alt text](Images/shiny_app_screenshot.png )
