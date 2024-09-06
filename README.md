@@ -1,14 +1,11 @@
 # KIDS24-team6
 
-Center of Spatial Omics
+## **SpixelMap**: Advancing Spatial Omics Insights through pixel-based Grid Classification Mapping and Analysismics
 
 Team members:
     Yutian Liu, Maycon Marcao, Felipe Pimenta Carcanholo
 
 
-## Project
-
-**SpixelMap**: Advancing Spatial Omics Insights through pixel-based Grid Classification Mapping and Analysis 
 
 ![alt text](Images/image.png)
 
@@ -21,10 +18,8 @@ Spatialomics, Visium HD, Grids, H&E Pathology Image, Pixel, Mapping, Gene Expres
 
 #### Dataset
 
-- Dataset :[Public data Human CRC Visium HD Download from 10x](https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-libraries-of-human-crc)
-- Input: H&E tif image [Download from GitHUb](https://github.com/stjude-biohackathon/KIDS24-team6/blob/main/Data/tissue_hires_image.tiff)
-
-### 
+- Dataset :[Public data Human CRC Visium HD Download from 10x](https://www.10xgenomics.com/datasets/-/visium-hd-cytassist-gene-expression-libraries-of-human-crc)
 
 ![alt text](Images/tissue_hires_image.png )
 
+See more explanation in [Explanation](https://github.com/stjude-biohackathon/KIDS24-team6/blob/main/Explanation/Explanation.md)
