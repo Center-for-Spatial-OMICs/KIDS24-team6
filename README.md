@@ -25,5 +25,5 @@ Spatialomics, Visium HD, Grids, H&E Pathology Image, Pixel, Mapping, Gene Expres
 See more details in [Explanation](https://github.com/stjude-biohackathon/KIDS24-team6/blob/main/Explanation/Explanation.md)
 
 
-#### Shiny APP (Demo)
+#### Shiny APP 
 ![alt text](Images/shiny_app_screenshot.png )
