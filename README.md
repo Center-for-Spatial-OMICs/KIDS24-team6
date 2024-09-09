@@ -2,8 +2,8 @@
 
 ## **SpixelMap**: Advancing Spatial Omics Insights through pixel-based Grid Classification Mapping and Analysismics
 
-Team members:
-    Yutian Liu, Maycon Marcao, Felipe Pimenta Carcanholo
+
+Yutian Liu, Maycon Marcao, Felipe Pimenta Carcanholo， Felipe Dezem Segato, Luke(Luoqi) Zhang
 
 
 
