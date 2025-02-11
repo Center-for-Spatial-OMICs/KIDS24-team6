@@ -1,5 +1,6 @@
 # KIDS24-team6
 
+Future updates will be in [CSO of Stjude](https://github.com/Center-for-Spatial-OMICs/KIDS24-team6)
 ## **SpixelMap**: Advancing Spatial Omics Insights through pixel-based Grid Classification Mapping and Analysismics
 
 
